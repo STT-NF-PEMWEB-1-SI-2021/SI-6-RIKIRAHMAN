@@ -1,0 +1,15 @@
+.poto{
+    display: inline; 
+    float : left; 
+    margin-left :50px; 
+    margin-top:20px;
+}
+.profil{
+    display: inline; 
+    float:left; 
+    margin-left:20px; 
+    font-size : 17px;
+}
+.page{
+    float: left; margin-left:50px;
+}
